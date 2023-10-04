@@ -5,9 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## This is a home assignment for collcom
 
 Please create an env file with:
-REACT_APP_API_KEY
-REACT_APP_DATA_PATH
-REACT_APP_BASE_IMAGE_PATH
+REACT_APP_API_KEY, REACT_APP_DATA_PATH, REACT_APP_BASE_IMAGE_PATH
 
 ## Available Scripts
 
